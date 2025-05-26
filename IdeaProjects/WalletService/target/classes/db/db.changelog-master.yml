@@ -1,8 +1,0 @@
-databaseChangeLog:
-  - changeSet:
-      id: 001
-      author: ru.luba
-      changes:
-        - sqlFile:
-            path: db/script/create_wallets_table.sql
-            relativeToChangelogFile: false
