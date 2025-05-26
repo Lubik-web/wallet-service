@@ -1,0 +1,15 @@
+ru\luba\entity\Wallet.class
+ru\luba\exception\InsufficientFundsException.class
+ru\luba\service\WalletServiceImpl.class
+ru\luba\WalletApplication.class
+ru\luba\controller\WalletController.class
+ru\luba\exception\WalletNotFoundException.class
+ru\luba\repository\WalletRepository.class
+ru\luba\mapper\WalletMapper.class
+ru\luba\dto\AmountRequestDto.class
+ru\luba\dto\WalletDto.class
+ru\luba\mapper\WalletMapperImpl.class
+ru\luba\service\WalletService.class
+ru\luba\dto\WalletOperationRequestDto.class
+ru\luba\dto\ErrorResponseDto.class
+ru\luba\controller\WalletControllerAdvice.class

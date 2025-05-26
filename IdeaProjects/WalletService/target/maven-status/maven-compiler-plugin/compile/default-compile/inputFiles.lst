@@ -1,0 +1,14 @@
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\repository\WalletRepository.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\entity\Wallet.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\dto\AmountRequestDto.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\service\WalletService.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\controller\WalletController.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\WalletApplication.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\dto\WalletDto.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\mapper\WalletMapper.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\exception\WalletNotFoundException.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\service\WalletServiceImpl.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\dto\ErrorResponseDto.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\controller\WalletControllerAdvice.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\dto\WalletOperationRequestDto.java
+C:\Users\Alexey\IdeaProjects\WalletService\src\main\java\ru\luba\exception\InsufficientFundsException.java
